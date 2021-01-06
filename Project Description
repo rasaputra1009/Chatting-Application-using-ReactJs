@@ -9,3 +9,6 @@ are consuming. It is a Real-time Chatting Application which we developed using R
 Each of these technology provides an end to end framework to work in. React is a JavaScript framework that is used for building frontend. 
 Node.js provides users to run their code on the server. The Firebase Realtime Database is a cloud-hosted NOSQL database that lets you store and sync data between your users in
 realtime.
+
+Note :
+Still Project is not implemented completely. Any Suggestions will be accepted. Thank You...
