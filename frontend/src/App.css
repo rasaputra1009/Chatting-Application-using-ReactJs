@@ -1,0 +1,16 @@
+.app
+{
+  display:grid;
+  place-items: center;
+  height:100vh;
+  background-image: url("rain.gif");
+}
+.app__body
+{
+  display: flex;
+  background-color:lightcyan;
+  margin-top:0px;
+  height: 90vh;
+  width: 90vw;
+  box-shadow:1px 4px 20px 1px lightsalmon;
+}
